@@ -1,4 +1,4 @@
-# MySQL_certification
+# SQL Certification
 SQL certification for data analytics and business intelligence using MySQL.
 
 This repository contains my queries for the course: SQL - MySQL for Data Analytics and Business Intelligence on Udemy.
